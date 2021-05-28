@@ -1,2 +1,8 @@
 # weconnect-test
-Created with CodeSandbox
+This is React Project for We-Conect Challenge.
+
+Implemented functions:
+- Create menu items according to the api response
+  API returns menu items list simply. It is developed using node express and deployed in heroku server.
+- Display contents of url inside internal frame.
+- Responsive style
