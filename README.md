@@ -17,9 +17,9 @@ Implemented functions:
 ## Online Testing
 1. Goto [codesandbox.io](https://codesandbox.io/s/github/EmreKayaoglu/weconnect-test)
 2. Click the icon for open new tab
-<img src="https://github.com/EmreKayaoglu/weconnect-test/blob/main/readme/1.jpg">
+<img width="500" src="https://github.com/EmreKayaoglu/weconnect-test/blob/main/readme/1.jpg">
 3. Then you can see the online site
-<img src="https://github.com/EmreKayaoglu/weconnect-test/blob/main/readme/1.jpg">
+<img width="500" src="https://github.com/EmreKayaoglu/weconnect-test/blob/main/readme/2.jpg">
 
 ## Offline Testing
 1. Please download source code from git.
